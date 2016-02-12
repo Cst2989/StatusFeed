@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "appbase-js": "^0.10.7",
     "browserify": "^9.0.3",
     "gulp": "^3.8.11",
     "gulp-concat": "^2.5.2",

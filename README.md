@@ -16,6 +16,9 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> git clone https://github.com/Cst2989/StatusFeed.git
 	> cd StatusFeed
 	> npm install
+	> npm install appbase-js
 	> gulp
 ```
+
+Demo: http://cst2989.github.io/ 
 
