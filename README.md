@@ -1,28 +1,21 @@
-ReactStarter
+StatusFeed
 ====
 
-Use this as a starting point for working on chapters of the [Build Web Apps with React JS and Flux](https://www.udemy.com/learn-and-understand-reactjs/) course on Udemy.com.
+A status feed app using appbase.io , twitter API and ReactJS.
 
 ---
 
 ###Getting Started###
 
-There are two methods for getting started with this repo.
+
 
 ####Familiar with Git?#####
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone https://github.com/StephenGrider/ReactStarter.git
-	> cd ReactStarter
+	> git clone https://github.com/Cst2989/StatusFeed.git
+	> cd StatusFeed
 	> npm install
 	> gulp
 ```
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> gulp
-```
